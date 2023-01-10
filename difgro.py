@@ -1,7 +1,7 @@
 import telebot
 import wget
 
-TOKEN = '160026302:AAHdOAU3tABSeDOA1OGmpqqBBYZxPBZJ-Bs'
+TOKEN = 
 
 bot = telebot.TeleBot(TOKEN)
 
